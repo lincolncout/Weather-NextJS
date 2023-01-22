@@ -12,6 +12,12 @@
 /.next/
 /out/
 
+# .vscode
+/.vscode/
+
+#prettiet
+.prettierrc.json
+
 # production
 /build
 
@@ -26,7 +32,10 @@ yarn-error.log*
 .pnpm-debug.log*
 
 # local env files
-.env*.local
+.env*
+
+#txt
+Comandos uteis
 
 # vercel
 .vercel
