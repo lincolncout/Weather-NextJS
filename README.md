@@ -12,11 +12,11 @@ Link do youtube: https://youtu.be/gYCOWMbt31k
 git clone https://github.com/lincolncout/Weather-NextJS.git
 ```
 
-2. Instale as dependências do projeto 
+2. Instale as dependências do projeto:
 ```shell
 npm install
 ```
-3. Para testar o site
+3. Para testar o site:
 ```shell
 npm run dev
 ```
