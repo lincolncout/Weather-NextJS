@@ -1,4 +1,4 @@
-Este é um [Next.js](https://nextjs.org/) projeto, baseado em um vídeo de youtube, realizado para aprender alguns conceitos de tailwind, uma API de clima, e, melhorar meus aprendizados em Next Js
+Este é um projeto [Next.js](https://nextjs.org/) , baseado em um vídeo de youtube, realizado para aprender alguns conceitos de tailwind, uma API de clima, e, melhorar meus aprendizados em Next Js
 
 Nele, é criado um buscador em que ele coloca informações sobre a temperatura de um determinado local 
 
